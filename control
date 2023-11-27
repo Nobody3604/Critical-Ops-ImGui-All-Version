@@ -1,0 +1,8 @@
+Package: com.evilbunny.copsmm
+Name: C-Ops ImGui Mod Menu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mod Menu for Critical Ops
+Maintainer: EvilBunny420
+Author: EvilBunny420
